@@ -1,0 +1,10 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  height: 40px;
+}
+
+.nav-container a {
+  text-decoration: none;
+}
