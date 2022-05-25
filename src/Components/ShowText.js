@@ -17,6 +17,7 @@ const ShowText = (props) => {
   }else{
      children = <div>{text}</div>
   }
+  console.log('query',query)
   return <div>{children}</div>
 }
 
